@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "120111149005",
+    "firebase_url": "https://rotarydist3190-e25a2.firebaseio.com",
+    "project_id": "rotarydist3190-e25a2",
+    "storage_bucket": "rotarydist3190-e25a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120111149005:android:f118d9b894c34c85",
+        "android_client_info": {
+          "package_name": "in.zenopsys.rotary3190"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120111149005-4c9o0a69hp15bnn248f5vqinhih4jd6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxpszUvl2GDCq2n8yshqnG4shvi1ySjXg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
