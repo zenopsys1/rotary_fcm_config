@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>120111149005-o9mnravknedgs8c4gnouehuhn3a31o8b.apps.googleusercontent.com</string>
+	<string>45073666918-2hd93i192sh3ej2cfdb4ontt6fpaet3d.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.120111149005-o9mnravknedgs8c4gnouehuhn3a31o8b</string>
+	<string>com.googleusercontent.apps.45073666918-2hd93i192sh3ej2cfdb4ontt6fpaet3d</string>
 	<key>API_KEY</key>
-	<string>AIzaSyBImP4mp_S1M4t9xjnxpqritMjnIQD0tm4</string>
+	<string>AIzaSyBuS3Lf7Kxe6a7oFAWsef5Zx-3Rfaiiexo</string>
 	<key>GCM_SENDER_ID</key>
-	<string>120111149005</string>
+	<string>45073666918</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.zenopsys.rotary</string>
+	<string>BZW65V2563.in.zenopsys.rotary3190</string>
 	<key>PROJECT_ID</key>
-	<string>rotarydist3190-e25a2</string>
+	<string>bzw65v2563inzenopsys</string>
 	<key>STORAGE_BUCKET</key>
-	<string>rotarydist3190-e25a2.appspot.com</string>
+	<string>bzw65v2563inzenopsys.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true/>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:120111149005:ios:0456bcdf5b725240</string>
+	<string>1:45073666918:ios:50d74d3c1a374c3b</string>
 	<key>DATABASE_URL</key>
-	<string>https://rotarydist3190-e25a2.firebaseio.com</string>
+	<string>https://bzw65v2563inzenopsys.firebaseio.com</string>
 </dict>
 </plist>
